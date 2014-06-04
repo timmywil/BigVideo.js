@@ -37,7 +37,7 @@ require.config({
 		"BigVideo": "bower_components/BigVideo.js/lib/bigvideo",
 		"jquery": "bower_components/jquery/jquery",
 		"videojs": "bower_components/video.js/video",
-		"imagesloaded": "bower_components/imagesloaded/imagesloaded"
+		"imagesloaded": "bower_components/imagesloaded/imagesloaded",
 		"eventEmitter/EventEmitter": "bower_components/eventEmitter/EventEmitter",
 		"eventie/eventie": "bower_components/eventie/eventie"
 	},
